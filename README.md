@@ -77,8 +77,6 @@ Whether you're planning a tiger safari, birdwatching expedition, romantic getawa
 
 ---
 ```
-```markdown
-
 ## 🐅 Wildlife Experiences
 
 Immerse yourself in the wilderness of Ranthambore with unforgettable wildlife adventures.
@@ -211,4 +209,104 @@ https://www.ranthamboretigermachan.com
 
 https://www.ranthamboretigermachan.com/blog
 
+```
+---
+
+# 🌐 Connect With Us
+
+<p align="center">
+
+<a href="https://www.ranthamboretigermachan.com">
+<img src="https://img.shields.io/badge/🌐_Official_Website-Visit_Now-2F6B3F?style=for-the-badge">
+</a>
+
+<a href="https://www.instagram.com/tigermachan/">
+<img src="https://img.shields.io/badge/📷_Instagram-Follow-E4405F?style=for-the-badge">
+</a>
+
+<a href="https://www.facebook.com/ranthamboretigermachan">
+<img src="https://img.shields.io/badge/👍_Facebook-Connect-1877F2?style=for-the-badge">
+</a>
+
+<a href="https://www.tripadvisor.in/Hotel_Review-g297671-d1141275-Reviews-Tiger_Machan-Sawai_Madhopur_Sawai_Madhopur_District_Rajasthan.html">
+<img src="https://img.shields.io/badge/⭐_Tripadvisor-Reviews-34E0A1?style=for-the-badge">
+</a>
+
+</p>
+
+---
+
+# 📚 Travel Resources
+
+This GitHub profile will gradually become a knowledge hub for travellers visiting Ranthambore.
+
+Future repositories will include:
+
+- 🐅 Ranthambore Wildlife Guide
+- 📍 Local Attractions
+- 📸 Photography Guide
+- 🦜 Birds of Ranthambore
+- 🧳 Travel Tips
+- 🚙 Safari Information
+- 🏕 Guest Information
+- 🍽 Local Cuisine
+- 🌳 Nature & Conservation
+
+---
+
+# ❤️ Our Commitment
+
+At Ranthambore Tiger Machan Resort, we believe that responsible tourism plays an important role in protecting wildlife and supporting local communities.
+
+We strive to provide memorable experiences while encouraging guests to appreciate nature with respect and care.
+
+---
+
+# 📢 Latest Updates
+
+We regularly share:
+
+- Wildlife sightings
+- Resort updates
+- Travel guides
+- Seasonal experiences
+- Safari information
+- Photography inspiration
+- Guest stories
+
+Stay connected for the latest from Ranthambore.
+
+---
+
+<p align="center">
+
+## 🐅 Experience Wildlife. Stay in Luxury.
+
+### Ranthambore Tiger Machan Resort
+
+Village Kutalpur, Sherpur  
+Ranthambore Road  
+Sawai Madhopur, Rajasthan 322001
+
+📞 +91 9950521870
+
+📧 tigermachan@ymail.com
+
+🌐 https://www.ranthamboretigermachan.com
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting our GitHub profile!
+
+If you're planning a wildlife getaway near Ranthambore National Park, we'd be delighted to welcome you.
+
+**Experience Nature • Luxury • Wildlife**
+
+<img src="https://komarev.com/ghpvc/?username=ranthamboretigermachanresort&style=for-the-badge&color=2F6B3F" />
+
+</div>
 ```
