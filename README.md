@@ -76,7 +76,7 @@ Whether you're planning a tiger safari, birdwatching expedition, romantic getawa
 | 🛖 Deluxe Cottage | Comfortable stay surrounded by nature |
 
 ---
-```
+```markdown
 ## 🐅 Wildlife Experiences
 
 Immerse yourself in the wilderness of Ranthambore with unforgettable wildlife adventures.
@@ -209,7 +209,7 @@ https://www.ranthamboretigermachan.com
 
 https://www.ranthamboretigermachan.com/blog
 
-```
+```markdown
 ---
 
 # 🌐 Connect With Us
