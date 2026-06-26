@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🐅 Ranthambore Tiger Machan Resort
 
-<!--
-**ranthamboretigermachanresort/ranthamboretigermachanresort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the official GitHub profile of Ranthambore Tiger Machan Resort.
 
-Here are some ideas to get you started:
+Experience luxury in the heart of nature near Ranthambore National Park.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌿 About Us
+
+- Luxury wildlife resort
+- Comfortable rooms
+- Jungle Safari Assistance
+- Nature Walks
+- Family Vacations
+- Bird Watching
+
+## 📍 Location
+
+Village Kutalpur, Sherpur, Ranthambore Road
+
+## 🌐 Website
+
+https://www.ranthamboretigermachan.com
+
+## 📷 Follow Us
+
+- Facebook
+- Instagram
+
+## 📸 Gallery
+
+(We'll add photos here later.)
+
+## 🐅 Latest Updates
+
+Stay tuned for wildlife sightings, travel guides, and resort updates.
